@@ -41,7 +41,7 @@
       desc: "",
       activeTimers: [],
       oldTimers: [],
-      client: new WebSocket(`ws://localhost:3000`)
+      client: new WebSocket(`ws://176-99-11-151.cloudvps.regruhosting.ru:3000`)
     },
     methods: {
       createTimer() {
